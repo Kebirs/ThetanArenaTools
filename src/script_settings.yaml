@@ -1,0 +1,12 @@
+#hero_rarity: epic
+#skin_rarity: rare
+#battle_cap: 380
+#battle_played: 0
+#purchased: 450
+win_ratio: 60
+thc_price: 0.4
+thg_price: 20
+bnb_price: 600  # scrape it later [live data]
+
+# {'profit': 257.20799999999986, 'currency': 'USD'}
+
